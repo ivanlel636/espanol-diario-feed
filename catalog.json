@@ -265,6 +265,128 @@
           "explanation": "El + существительное + más + прилагательное образует превосходную степень."
         }
       ]
+    },
+    {
+      "id": "starter-03",
+      "number": 3,
+      "title": "Язык, история и общество",
+      "level": "C1",
+      "publishedAt": "2026-11-11T18:00:00Z",
+      "description": "Пробный блок сложного контента: история испанского, письменность и языковое неравенство. Не торопись: сформулируй тезис каждого ролика и два аргумента. Можно вернуться к этому уроку позже, когда B2 станет комфортным.",
+      "videos": [
+        {
+          "id": "qRpT2PY54xU",
+          "title": "¿La ORTOGRAFÍA es CLASISTA? Sí.",
+          "channel": "Linguriosa",
+          "durationSeconds": 1369,
+          "level": "C1"
+        },
+        {
+          "id": "u9i2Ctjnzjc",
+          "title": "¿Cómo Sonaba el ESPAÑOL MEDIEVAL? 👑",
+          "channel": "Linguriosa",
+          "durationSeconds": 818,
+          "level": "C1"
+        },
+        {
+          "id": "m72LOvFQmog",
+          "title": "¿Por qué el Inglés NO❌ se PRONUNCIA como se ESCRIBE?",
+          "channel": "Linguriosa",
+          "durationSeconds": 713,
+          "level": "B2"
+        },
+        {
+          "id": "Gx0yrNJFuMM",
+          "title": "¿El IDIOMA más FÁCIL si hablas español? 👍[TOP 5]",
+          "channel": "Linguriosa",
+          "durationSeconds": 702,
+          "level": "B2"
+        }
+      ],
+      "phrases": [
+        {
+          "es": "¿Cómo sonaba el español medieval?",
+          "ru": "Как звучал средневековый испанский?",
+          "videoId": "u9i2Ctjnzjc",
+          "sourceKind": "title"
+        },
+        {
+          "es": "se pronuncia como se escribe",
+          "ru": "произносится так, как пишется",
+          "videoId": "m72LOvFQmog",
+          "sourceKind": "title"
+        },
+        {
+          "es": "¿La ortografía es clasista?",
+          "ru": "Носит ли орфография классовый характер?",
+          "videoId": "qRpT2PY54xU",
+          "sourceKind": "title"
+        },
+        {
+          "es": "No se trata solo de memorizar reglas.",
+          "ru": "Речь не только о заучивании правил.",
+          "videoId": "qRpT2PY54xU",
+          "sourceKind": "practice"
+        },
+        {
+          "es": "Conviene distinguir entre lengua y escritura.",
+          "ru": "Стоит различать язык и письменность.",
+          "videoId": "m72LOvFQmog",
+          "sourceKind": "practice"
+        },
+        {
+          "es": "De ahí que haya tantas diferencias.",
+          "ru": "Отсюда и такое множество различий. De ahí que требует subjuntivo.",
+          "videoId": "u9i2Ctjnzjc",
+          "sourceKind": "practice"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "subjunctive",
+          "prompt": "De ahí que ___ tantas diferencias.",
+          "options": [
+            "hay",
+            "haya",
+            "había"
+          ],
+          "answer": 1,
+          "explanation": "После de ahí que используется subjuntivo: haya."
+        },
+        {
+          "id": "sonaba",
+          "prompt": "Почему в вопросе ¿Cómo sonaba…? стоит imperfecto?",
+          "options": [
+            "Описывается звучание языка в прошлом",
+            "Это действие в будущем",
+            "Это приказ"
+          ],
+          "answer": 0,
+          "explanation": "Imperfecto подходит для описания состояния или свойства в прошлом."
+        },
+        {
+          "id": "se",
+          "prompt": "Se escribe означает…",
+          "options": [
+            "Пишется",
+            "Он написал мне",
+            "Мы будем писать"
+          ],
+          "answer": 0,
+          "explanation": "Здесь se используется в конструкции с пассивным значением."
+        },
+        {
+          "id": "argument",
+          "prompt": "Выбери нейтральную фразу для аргументированного обсуждения.",
+          "options": [
+            "Conviene distinguir entre lengua y escritura.",
+            "Es así porque sí.",
+            "No hay nada que hablar."
+          ],
+          "answer": 0,
+          "explanation": "Conviene distinguir… помогает уточнить понятия, прежде чем приводить аргументы."
+        }
+      ]
     }
   ]
 }
