@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "lessons": [
+    {
+      "id": "starter-01",
+      "number": 1,
+      "title": "Привычки, истории и живой испанский",
+      "level": "B1",
+      "publishedAt": "2026-11-09T18:00:00Z",
+      "description": "Начни с коротких роликов A2, затем послушай историю и разговор о семье. В конце — два небольших вызова B2 о языке. Если сложно, включи испанские субтитры. Цель: понимать общий смысл и замечать знакомые конструкции.",
+      "videos": [
+        {
+          "id": "No17mobkRSo",
+          "title": "Lo primero que hago por la mañana...  | DCJ #7",
+          "channel": "Español con Juan",
+          "durationSeconds": 366,
+          "level": "A2"
+        },
+        {
+          "id": "LOrtx3gFXpw",
+          "title": "Aprender español sin esfuerzo | Learning Spanish Effortlessly | DCJ #9",
+          "channel": "Español con Juan",
+          "durationSeconds": 451,
+          "level": "A2"
+        },
+        {
+          "id": "s09AsXLuJeM",
+          "title": "A Little Bit of Spanish While You Go About Your Day 🇪🇸",
+          "channel": "Spanish After Hours",
+          "durationSeconds": 490,
+          "level": "B1"
+        },
+        {
+          "id": "7hwzVogh0cs",
+          "title": "Una MUJER con mucho PELIGRO.",
+          "channel": "Español con Juan",
+          "durationSeconds": 1181,
+          "level": "B1"
+        },
+        {
+          "id": "2RiadhCBhiY",
+          "title": "El idioma ESPAÑOL NO es LÓGICO 🆘 - ft. @Sergimartinspanish",
+          "channel": "Linguriosa",
+          "durationSeconds": 415,
+          "level": "B2"
+        },
+        {
+          "id": "0b95lA1A2pE",
+          "title": "Diferencias del ESPAÑOL en Distintos PAÍSES  [Pretérito Perfecto] 🇪🇸🇬🇶🇲🇽🇨🇴",
+          "channel": "Linguriosa",
+          "durationSeconds": 738,
+          "level": "B2"
+        }
+      ],
+      "phrases": [
+        {
+          "es": "Lo primero que hago por la mañana…",
+          "ru": "Первое, что я делаю утром…",
+          "videoId": "No17mobkRSo",
+          "sourceKind": "title"
+        },
+        {
+          "es": "sin esfuerzo",
+          "ru": "без усилий",
+          "videoId": "LOrtx3gFXpw",
+          "sourceKind": "title"
+        },
+        {
+          "es": "con mucho peligro",
+          "ru": "очень опасный / опасная; буквально «с большой опасностью»",
+          "videoId": "7hwzVogh0cs",
+          "sourceKind": "title"
+        },
+        {
+          "es": "Hoy he visto un vídeo en español.",
+          "ru": "Сегодня я посмотрел видео на испанском. В Испании perfecto часто связывает событие с ещё не закончившимся периодом.",
+          "videoId": "0b95lA1A2pE",
+          "sourceKind": "practice"
+        },
+        {
+          "es": "¿Vosotros qué hacéis por la mañana?",
+          "ru": "А что вы делаете утром? Vosotros — неформальное «вы» в Испании.",
+          "videoId": "No17mobkRSo",
+          "sourceKind": "practice"
+        },
+        {
+          "es": "Me cuesta entenderlo a la primera.",
+          "ru": "Мне трудно понять это с первого раза.",
+          "videoId": "LOrtx3gFXpw",
+          "sourceKind": "practice"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "morning",
+          "prompt": "Продолжи: Lo primero que ___ por la mañana es desayunar.",
+          "options": [
+            "hago",
+            "hace",
+            "hacer"
+          ],
+          "answer": 0,
+          "explanation": "С yo используется hago. Lo primero que hago — первое, что я делаю."
+        },
+        {
+          "id": "vosotros",
+          "prompt": "Выбери форму vosotros: ¿Qué ___ por la mañana?",
+          "options": [
+            "hacemos",
+            "hacéis",
+            "hacen"
+          ],
+          "answer": 1,
+          "explanation": "Vosotros hacéis. В Испании это обычное неформальное обращение к нескольким людям."
+        },
+        {
+          "id": "perfecto",
+          "prompt": "«Сегодня я посмотрел видео»: типичный вариант для Испании.",
+          "options": [
+            "Hoy he visto un vídeo.",
+            "Hoy había ver un vídeo.",
+            "Hoy estoy visto un vídeo."
+          ],
+          "answer": 0,
+          "explanation": "He + visto — pretérito perfecto. Hoy обозначает период, связанный с настоящим."
+        },
+        {
+          "id": "effort",
+          "prompt": "Что означает sin esfuerzo?",
+          "options": [
+            "Без усилий",
+            "С трудом",
+            "По утрам"
+          ],
+          "answer": 0,
+          "explanation": "Sin — без; esfuerzo — усилие."
+        }
+      ]
+    }
+  ]
+}
