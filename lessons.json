@@ -136,6 +136,135 @@
           "explanation": "Sin — без; esfuerzo — усилие."
         }
       ]
+    },
+    {
+      "id": "starter-02",
+      "number": 2,
+      "title": "Рассказываем и сравниваем",
+      "level": "B2",
+      "publishedAt": "2026-11-10T18:00:00Z",
+      "description": "Повтори знакомую историю без остановок и перескажи её. Затем сравни языки и варианты испанского. Повторные ролики здесь намеренные: проверь, стало ли легче понимать. Это пример урока B2, а не обещание перейти на новый уровень за день.",
+      "videos": [
+        {
+          "id": "7hwzVogh0cs",
+          "title": "Una MUJER con mucho PELIGRO.",
+          "channel": "Español con Juan",
+          "durationSeconds": 1181,
+          "level": "B1"
+        },
+        {
+          "id": "0b95lA1A2pE",
+          "title": "Diferencias del ESPAÑOL en Distintos PAÍSES  [Pretérito Perfecto] 🇪🇸🇬🇶🇲🇽🇨🇴",
+          "channel": "Linguriosa",
+          "durationSeconds": 738,
+          "level": "B2"
+        },
+        {
+          "id": "Gx0yrNJFuMM",
+          "title": "¿El IDIOMA más FÁCIL si hablas español? 👍[TOP 5]",
+          "channel": "Linguriosa",
+          "durationSeconds": 702,
+          "level": "B2"
+        },
+        {
+          "id": "LOrtx3gFXpw",
+          "title": "Aprender español sin esfuerzo | Learning Spanish Effortlessly | DCJ #9",
+          "channel": "Español con Juan",
+          "durationSeconds": 451,
+          "level": "A2"
+        },
+        {
+          "id": "s09AsXLuJeM",
+          "title": "A Little Bit of Spanish While You Go About Your Day 🇪🇸",
+          "channel": "Spanish After Hours",
+          "durationSeconds": 490,
+          "level": "B1"
+        }
+      ],
+      "phrases": [
+        {
+          "es": "si hablas español",
+          "ru": "если ты говоришь по-испански",
+          "videoId": "Gx0yrNJFuMM",
+          "sourceKind": "title"
+        },
+        {
+          "es": "en distintos países",
+          "ru": "в разных странах",
+          "videoId": "0b95lA1A2pE",
+          "sourceKind": "title"
+        },
+        {
+          "es": "el idioma más fácil",
+          "ru": "самый лёгкий язык",
+          "videoId": "Gx0yrNJFuMM",
+          "sourceKind": "title"
+        },
+        {
+          "es": "Antes me costaba más entenderlo.",
+          "ru": "Раньше мне было труднее это понимать.",
+          "videoId": "LOrtx3gFXpw",
+          "sourceKind": "practice"
+        },
+        {
+          "es": "Aunque no entienda todo, sigo escuchando.",
+          "ru": "Хотя я не всё понимаю, я продолжаю слушать. Здесь subjuntivo представляет непонимание как допустимое условие.",
+          "videoId": "LOrtx3gFXpw",
+          "sourceKind": "practice"
+        },
+        {
+          "es": "Ayer vi el vídeo; hoy lo he vuelto a ver.",
+          "ru": "Вчера я посмотрел видео, а сегодня пересмотрел его.",
+          "videoId": "0b95lA1A2pE",
+          "sourceKind": "practice"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "condition",
+          "prompt": "Реальное условие: Si ___ español, puedes entender algunas palabras.",
+          "options": [
+            "hablas",
+            "hablarías",
+            "hablar"
+          ],
+          "answer": 0,
+          "explanation": "В реальном условии после si обычно presente: si hablas."
+        },
+        {
+          "id": "past",
+          "prompt": "Выбери правильное предложение.",
+          "options": [
+            "Ayer he ver el vídeo.",
+            "Ayer vi el vídeo.",
+            "Ayer visto el vídeo."
+          ],
+          "answer": 1,
+          "explanation": "Ayer — завершённый период; vi — indefinido глагола ver."
+        },
+        {
+          "id": "repeat",
+          "prompt": "Volver a ver означает…",
+          "options": [
+            "Увидеть снова",
+            "Не увидеть",
+            "Посмотреть позже обязательно"
+          ],
+          "answer": 0,
+          "explanation": "Volver a + infinitivo — сделать что-то снова."
+        },
+        {
+          "id": "compare",
+          "prompt": "«Самый лёгкий язык» — это…",
+          "options": [
+            "el idioma más fácil",
+            "el idioma mucho fácil",
+            "el idioma tan más fácil"
+          ],
+          "answer": 0,
+          "explanation": "El + существительное + más + прилагательное образует превосходную степень."
+        }
+      ]
     }
   ]
 }
